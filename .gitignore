@@ -4,3 +4,4 @@ db.sqlite3
 External Libraries
 Scratch and Consoles
 .idea/
+polls/__pycache__
